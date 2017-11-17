@@ -1,16 +1,14 @@
 # configuration file.
-# Global properties.
 
+# Global properties.
 [Global]
 # Mendeley database file
-# Usually in C:/Users/Username/AppData/Local/Mendeley Ltd/Mendeley Desktop/youremail@email.com@www.mendeley.com.sqlite
+# For Windows, usually in C:/Users/NAME/AppData/Local/Mendeley Ltd/Mendeley Desktop/youremail@email.com@www.mendeley.com.sqlite
+# For OS X, usually in /Users/NAME/Library/Application Support/Mendeley Desktop/youremail@email.com@www.mendeley.com.sqlite
 dbName = C:/Users/Username/AppData/Local/Mendeley Ltd/Mendeley Desktop/youremail@email.com@www.mendeley.com.sqlite
 
-# Local path for Windows
+# Local path
 localFilePath = D:/OneDrive - University of Glasgow
-# Local path for Mac
-# localFilePath = D:/OneDrive - University of Glasgow
-
 
 # parent folder that contains whole paper files.
 parentFolder = Paper
